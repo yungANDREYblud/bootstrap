@@ -9,8 +9,8 @@ header {
     padding: 200px 0;
 }
 header, footer{
-    background: url(/img/pattern.png), #0000;
-    background: url(/img/pattern.png), linear-gradient(to right, var(--color1) 0%, var(--color2) 100%);
+    background: url(../img/pattern.png), #0000;
+    background: url(../img/pattern.png), linear-gradient(to right, var(--color1) 0%, var(--color2) 100%);
 }
 .itd-play {
     background-color: var(--color1);
